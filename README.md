@@ -5,4 +5,4 @@ so i don't recommend using any of this
 
 rofi theme: [squared nord](https://github.com/newmanls/rofi-themes-collection)
 
-
+minor change ignore
